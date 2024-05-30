@@ -1,0 +1,130 @@
+{
+    "gpt": {
+        "relevancy": [
+            "The synthesis effectively addresses the research problem related to transformer models.",
+            "The synthesis aligns well with the research problem by focusing on the methodologies employed in transformer models.",
+            "There could be more information about each model's weaknesses and strengths and maybe a comparison between the different models and what makes them really unique",
+            "This one maintains good focus on the research problem",
+            "pretty direct I would say"
+        ],
+        "correctness": [
+            " The synthesis does not appear to misinterpret or misrepresent the information",
+            "The synthesis appears to accurately represent the content of the provided abstract. It captures the key methodologies and innovations described in each",
+            "Looks solid, the synthesis appears to generate some really good representation about the researches abstracts.",
+            "I think it provided accurate information"
+        ],
+        "completeness": [
+            "it encapsulates the key contributions and advancements",
+            "All key details are mentioned ",
+            "It misses some minor details like but generally explain most of the important info",
+            "It only does a short explanation for some of the sources, for example 1 and 2 could use a lot more detail. ",
+            "I think that it captured the right information and points, effectively summarizing the findings of the researches.",
+            "Couldn't find points left unaddressed"
+        ],
+        "informativeness": [
+            "It could use some additional insights",
+            "It is informative but i feel it is missing the addition of some valuable insights. ",
+            "It does provide some insights at the end but could benefit from some more throughout the synthesis. ",
+            "It is informative but could use a bit more insight about each specific source. ",
+            "It provides insight but could be a bit more informative for some of the sources, ",
+            "Could use more insight",
+            "Overall, good - could have provided with more models comparison points and data, but the general insights were good enough.",
+            "The informativeness section can improve; I lacked better and deeper analysis and insights to the different methodologies. it's good, not very good.",
+            "Could elaborate more on the methodologies and the how to achieve it. also - comparison is missing."
+        ],
+        "integration": [
+            "I could integrate the different sources in a more seamless way. ",
+            "The sources are integrated but the transitions between each could be smoother. It still feels  like it is just listing each without connecting them. ",
+            "I feel like it is better integrated than previos synthesis. ",
+            "In this synthesis i feel that it deos connect well between sources when changing from on to the next. ",
+            "in my opinion - smooth transitions, clear and straight approach ",
+            "Although the synthesis demonstrates a clear approach to present the information, transitions could be sharper.",
+            "good structure, well put out."
+        ],
+        "cohesion": [
+            "It could use improvement by better connecting each source. It abruptly start talking about a new source one it finishes with the previous one. ",
+            "sentences were well written, connected very good and the transitions were smooth as mentioned above",
+            "It felt like there were some areas in the text where the connections between sentences could be further strengthened ",
+            "The synthesis transitions from one model to another sometimes abruptly. It's minor but it's there. "
+        ],
+        "coherence": [
+            "Could use better connection between sources. ",
+            "ideas between sources could be better connected . "
+        ],
+        "readability": [
+            "The synthesis primarily uses complex sentence structures. Adding some shorter, simpler sentences could make it easier to read",
+            "It is easy to understand what source it is talking about. ",
+            "Visuals improvements needed, better connections, better flow.",
+            "It has a well solid structure, but needs more polishing."
+        ],
+        "conciseness": [
+            "Option 1",
+            "Could be a bit shorter. It is 251 words. ",
+            "Option 1",
+            "Can be shortened and sharper",
+            "can be shortened ",
+            "while being almost at the target - still exceeds the 200-word limit.",
+            "slightly exceeds the 200-word limit ",
+            " Exceeds the 200-word limit ",
+            "Option 1"
+        ]
+    },
+    "mistral": {
+        "relevancy": [],
+        "correctness": [
+            "It does not seem to have errors. ",
+            "Some errors are presented. "
+        ],
+        "completeness": [
+            "I do feel like it only does a broad summary of each source. ",
+            "Missing a lot of the important details",
+            "Seems like the explanations of each source are very short",
+            "More complete than paper-wiese",
+            "It does miss some details from each source. ",
+            "included almost all the relevant information, however some details are not fully presented. not perfect."
+        ],
+        "informativeness": [
+            "It deos not offer any insight at all. It only summarizes each source. ",
+            "It only provides a bit of insight at the end. ",
+            "Only a bit of insight at the end. ",
+            "Missing some information and also a deeper insight about each abstract. ",
+            "very informative but missing a deeper insight. ",
+            "Does offer good insight at the end but would benefit from more information about each source. ",
+            "Same as the other ones, lacking insights into their objectives and methodologies."
+        ],
+        "integration": [
+            "It does not integrate the sources. The synthesis only lists them. ",
+            "I only lists the sources. ",
+            "It does not integrate the sources well. It only lists each one ",
+            "It is in a paragraph format but it feels like they are being listed one by one with no integration between each source. ",
+            "Does a better job of integrating the information of the different sources into one paragraph. "
+        ],
+        "cohesion": [
+            "It does not connect the sources with well structured sentences. The synthesis does feel disjointed. ",
+            "Cohesion within sources is good. It is missing that connection between sources "
+        ],
+        "coherence": [
+            "The ideas within each source are logically connected but it is missing that connection between sources. ",
+            "The format of list used does not help to form a clear narrative. ",
+            "Sources are not connected. Still feels like it is just listing one by one ",
+            "Ideas are better connected than previos synthesis. "
+        ],
+        "readability": [
+            "easy to read and understand "
+        ],
+        "conciseness": [
+            "Could be shorter. ",
+            "it is 260 words. Could be shorter to be closer to 200",
+            "it is long (260 words)",
+            "only 143 words. Would benefit from being longer. ",
+            "Could be longer ",
+            "First paragraph feels a bit extra. It is not necessary to name each source one by one at the beginning.",
+            " Exceeds the 200-word limit ",
+            " Exceeds the 200-word limit ",
+            " Exceeds the 200-word limit ",
+            "Great",
+            "slightly better than the previous one in terms of length and information.",
+            " Exceeds the 200-word limit "
+        ]
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "gpt": {
+        "relevancy": [
+            "The synthesis shows what each paper found and how it relates to the research problem. To make it better, it should connect more clearly how the methods in each study help predict soil properties using MLR.",
+            "No",
+            "The synthesis shows how MLR and other machine learning methods are useful in predicting soil properties.",
+            "The synthesis effectively captures the relevance of the research studies.",
+            "The synthesis effectively captures the relevance of the methodologies.",
+            "The summary tackles the research problem well by giving a theme-based overview of how Sentinel-2 data is used for mapping land use and land cover."
+        ],
+        "correctness": [
+            "While the synthesis is accurate, it doesn't include any of the statistical values mentioned in the papers which underrepresents the abstracts.",
+            "The third study actually compares MLR, BRT, Artificial Neural Networks (ANN), and Least-Squares Support Vector Machines (LS-SVM) with the results of a MLSG. In the fourth study, DRIFT-MIR spectroscopy is coupled with MLR and sCARS; the synthesis does not mention this. ",
+            "For study four, this is true: Our results suggest that Sentinel-2 combined with RF classification is efficient for creating a LU map; however the synthesis has this, \"...highlighting the value of the bare soil index as a covariate for LULC mapping.\"",
+            "The synthesis correctly shows what's in the abstracts without any mistakes or wrong information.",
+            "The synthesis correctly shows what is in the abstracts, without getting facts wrong or changing things.",
+            "The synthesis correctly shows what's in the abstracts without making mistakes.\n",
+            "The synthesis correctly shows what's in the abstracts, everything is true to the originals. ",
+            "The synthesis correctly shows the methods described in the given abstracts.",
+            "The synthesis accurately represents the content of the provided abstracts."
+        ],
+        "completeness": [
+            "The synthesis is missing a lot of relevant statistics to corroborate the results.",
+            "The synthesis fails to mention important quantitative details which are essential for the methodology.",
+            "For study 5, it's not mentioned that the improved classification accuracy is especially for the classes of forest, low vegetation, and bare soil and in the detection of coastlines.",
+            "The synthesis gives a good overview of what each paper found. But it could be better if it had more information ",
+            "The synthesis gives a good summary of what each paper found. But it could be better if it talked more about how each study was done.",
+            "The synthesis brings together the main ideas from the abstracts given.",
+            "The synthesis gives the important points and details from each summary.",
+            "The synthesis fully explains the methods used in the studies.",
+            "The summary includes all the important information and ways of studying mentioned in the given abstracts."
+        ],
+        "informativeness": [
+            "You must also add the number of samples",
+            "The synthesis shows how MLR can predict soil properties well. ",
+            "The synthesis shows how MLR can predict soil properties in different ways. \n",
+            "The synthesis gives good ideas about how MLR and other methods can predict soil properties. However, it could be more beneficial if it could explain more about what the results mean.",
+            "The synthesis offers valuable insights into the research studies.",
+            "The synthesis gives us good ideas about the methods used to map land use and land cover (LULC) with Sentinel-2 data.",
+            "The synthesis gives good ideas about the ways and discoveries in LULC mapping with Sentinel-2 data."
+        ],
+        "integration": [
+            "The synthesis shows what each paper found and how it relates to the research problem. To make it better, it should connect more clearly how the methods in each study help predict soil properties using MLR.",
+            "The synthesis brings together information from the papers well. ",
+            "The synthesis puts together information from various studies into a clear story, but it could use better connections between the summaries of each paper.",
+            "The synthesis combines details from the given abstracts into a one clear story.",
+            "The synthesis seamlessly integrates information from the provided abstracts.",
+            "The synthesis seamlessly integrates information from the various studies."
+        ],
+        "cohesion": [
+            "The synthesis creatively groups studies based on the theme of the results which is genius!",
+            "The synthesis shows good connections between sentences and paragraphs.",
+            "The synthesis shows clear connections between sentences and paragraphs, but some parts could be smoother.",
+            "The synthesis sticks together well.",
+            "The synthesis demonstrates a high level of cohesion.",
+            "The synthesis demonstrates a high level of cohesion.",
+            "The synthesis demonstrates a high level of cohesion."
+        ],
+        "coherence": [
+            "The synthesis organizes ideas well, making it easier to see how the studies are connected.",
+            "The synthesis makes sense and shows how ideas fit together.",
+            "The synthesis connects ideas well, making it easy to understand. But it could be clearer with stronger connections between ideas.",
+            "The synthesis keeps ideas connected logically, making the story easy to understand.",
+            "The synthesis connects ideas in a clear way, making the story easy to understand.",
+            "The mix of ideas in the synthesis flows well, making it easy to understand."
+        ],
+        "readability": [
+            "The synthesis is good but could be easier to understand with a bit of style and language improvement.",
+            "The synthesis is good but could be easier to understand with some small changes in how it is written.",
+            "The synthesis is good ",
+            "The synthesis is well-written and easy to read.",
+            "The synthesis is well-written and easy to read.",
+            "The synthesis is well-written and easy to read."
+        ],
+        "conciseness": [
+            "The synthesis tells the main ideas of each paper well, but, making some parts shorter could make it clearer.",
+            "The synthesis nicely sums up the main ideas of each paper.\n",
+            "The synthesis clearly shares the main ideas.",
+            " The synthesis effectively conveys key points from the provided abstracts. ",
+            "The synthesis effectively communicates key points.",
+            "The summary clearly shares information clearly."
+        ]
+    },
+    "mistral": {
+        "relevancy": [
+            "The synthesis doesn't specifically address each study's focus, but rather groups all of them into one general idea. This takes away the nuances in each study. ",
+            "The synthesis focuses on the summary of each study's objectives, methods, and results instead of the methodology aspect.",
+            "The synthesis summarizes different studies about soil properties well",
+            "The synthesis summarizes different studies about soil properties well.",
+            "No",
+            "The synthesis connects well with the research problem. "
+        ],
+        "correctness": [
+            "The synthesis failed to categorise each study in its correct order; the first study is totally missed. Because of this, the second study is labeled the first, and so forth.",
+            "The synthesis accurately shows what's in the abstract.",
+            "The synthesis reflects the abstracts , with only minor exceptions.",
+            "The synthesis accurately represents the content of the provided abstracts.",
+            "The synthesis stays true to the abstracts, keeping their main ideas without mistakes or changes."
+        ],
+        "completeness": [
+            "The first study isn't part of the synthesis.",
+            "The synthesis captures lots of important details from the abstract given.",
+            "The synthesis could give more detail in some parts.",
+            "The synthesis provides a comprehensive overview of the research studies, gathering the important points and details.",
+            "The summary covers all the important information from the abstracts, including the main findings and methods used."
+        ],
+        "informativeness": [
+            "The synthesis has a more general tone.",
+            "The synthesis mentions the methodologies used but doesn't specifically say what they are, or in which study these were used.",
+            "For study 5, the synthesis groups the methods in one vague term and doesn't explicitly mention the supervised classification methods: Maximum Likelihood Classifier, artificial neural networks, and object-based image analysis and he classification scheme which contained five classes: water, built-up, bare soil, low vegetation, and forest.",
+            "The synthesis gives helpful information about studies on soil properties.",
+            "The synthesis gives good info about soil studies, but it could talk more about what the findings mean.\n",
+            "The synthesis offers valuable insights into the research studies.",
+            "The synthesis offers valuable insights into the methodologies and findings related to land use and land cover mapping."
+        ],
+        "integration": [
+            "The putting together of information from different studies is good, but the move between paragraphs could be smoother.",
+            "The putting together of information from different studies is good.",
+            "The synthesis combined information from the abstracts into one clear story, showing how the studies are connected.\n",
+            "The synthesis seamlessly integrates information from the various studies."
+        ],
+        "cohesion": [
+            "The synthesis lines together well, but some parts could be made smoother.\n",
+            "The synthesis demonstrates but some parts could be smoother.",
+            "The synthesis demonstrates a reasonable level of cohesion.",
+            "The synthesis demonstrates a high level of cohesion, all sentences and paragraphs logically connected."
+        ],
+        "coherence": [
+            "The coherence of the synthesis is generally good.",
+            "The way the ideas are put together is mostly good, but making stronger links between them would make it clearer.",
+            "The synthesis keeps ideas connected, making the story easy to understand.",
+            "The ideas within the synthesis are logically connected."
+        ],
+        "readability": [
+            "Uses simple and understandable English which might be great for Plain Language Summaries",
+            "The synthesis is clear and easy to understand.",
+            "The synthesis is well-written and easy to read.",
+            "The synthesis is generally well-written and easy to read.",
+            "The synthesis is well-written and easy to read."
+        ],
+        "conciseness": [
+            "No redundancy; very concise.",
+            "The synthesis works well, very clear and direct.\n",
+            "The information is clear and direct.",
+            "The synthesis is good. It tells the important things without adding too much information",
+            "The synthesis effectively communicates key points within the expected length."
+        ]
+    }
+}

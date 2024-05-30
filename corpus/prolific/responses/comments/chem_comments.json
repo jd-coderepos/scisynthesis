@@ -1,0 +1,89 @@
+{
+    "gpt": {
+        "relevancy": [
+            "Some information like the concentration of the gas that can be detected in each paper can be added.",
+            "It is very relevant and directly related to the topics."
+        ],
+        "correctness": [
+            "Some small changes can be made to understand more each case of each paper and do all the logical interpretations.",
+            "It is very correct, the synthesis is accurate with a good representation of the information.",
+            "The last parts of the summary of reference 5 sound a bit exaggerated from what the abstract discussed. Perhaps is a issue of choice of words"
+        ],
+        "completeness": [
+            "Almost all the information were present in these synthesis, some minor details can be also added.",
+            "No, it was very good.",
+            "It left out important info such as concentration ranges and temperature explored",
+            "Again, it is missing the important parameters affecting sensing",
+            "I strongly feel affecting sensing are crucial and should be included",
+            "The info about temperature-dependency is critical and should be included",
+            "The dependency of temperature is again missing",
+            "Appreciated the acknowledgement of temperature dependency but could be approved by mention the temp range"
+        ],
+        "informativeness": [
+            "All information needed to resolve the problem are present with all the different techniques.",
+            "The answer was informative and complete.",
+            "Is informative but again, I feel being a bit explicit on the factors affecting sensing on these methods would have added more value"
+        ],
+        "integration": [
+            "The information are well combined in the paragraph, it is all clear.",
+            "No, it was well integrated.",
+            "It is fairly integrated but could have been improved by not starting sentences with \"the first paper, second pape...\"",
+            "It sounded as one body of work from my end, well synthesised.",
+            "Sound more like a summary for me"
+        ],
+        "cohesion": [
+            "There is a good cohesion in the paragraph, some sentences can be jointed in another way but it was all clear and well connected.",
+            "It need some improvement to get a more cohesive paragraph.",
+            "As mentioned above on the \"integration section\". This could have been improved by making it sound like one body of work and not summary as it sounds soo ",
+            "There were few sentences which I felt they introducing complete new info from the previous one but it is fairly cohesive",
+            "Connecting sentencing is missing. Its sound like a summary of different work"
+        ],
+        "coherence": [
+            "It was easy to follow the information in all the synthesis.",
+            "It need some small changes to connect the information. But it was clear."
+        ],
+        "readability": [
+            "Some improvement can be added to the text so it will be easier for the reader to understand more and more all the needed information.",
+            "It was good.",
+            "It is easy to read"
+        ],
+        "conciseness": [
+            "It was good. It respected the number of words and was clear and balanced between brevity and substance.",
+            "It respected the number of words and was all clear.",
+            "Very concise, as mentioned above, I felt it more of a summary, well written on, but not a synthesis"
+        ]
+    },
+    "mistral": {
+        "relevancy": [],
+        "correctness": [
+            "It could be correct but the non-punction makes it doubtful",
+            "Its speaks of new calculations such as DFT which are not included in the abstracts"
+        ],
+        "completeness": [
+            "I appreciated the inclusion of some of the factors affecting sensing",
+            "factors affecting sensing and working concentrations and temperatures are missing",
+            "Even better by including the reference list",
+            "Effect of temperature and the working ranges are missing"
+        ],
+        "informativeness": [],
+        "integration": [
+            "Fairly soo! Starting a sentence with \"In a separate study\" takes away the integration part for me",
+            "Non-punctions again makes it more difficult",
+            "Connecting sentences is a bit missing"
+        ],
+        "cohesion": [
+            "It sound more like reporting what other researchers did and more like in separate done as a cohesive one body of work",
+            "The flow of information is fairly cohesive but choice of words in connetcing sentences could be improved"
+        ],
+        "coherence": [],
+        "readability": [
+            "Not easy to read at all. Again, because of none punctions"
+        ],
+        "conciseness": [
+            "It is a very big paragraph.",
+            "It is very small paragraph.",
+            "The references took a lot of word limit.",
+            "A bit more longer for me"
+        ]
+    }
+}

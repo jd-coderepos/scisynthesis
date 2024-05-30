@@ -1,0 +1,149 @@
+{
+    "gpt": {
+        "relevancy": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "correctness": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "completeness": [
+            "none",
+            "none",
+            "Description of the 3rd study's results could be improved.",
+            "none",
+            "none",
+            "none"
+        ],
+        "informativeness": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "integration": [
+            "none",
+            "Transition between study 2 and 3 description could use major improvements",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "cohesion": [
+            "none",
+            "Same as above.",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "coherence": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "readability": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "conciseness": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ]
+    },
+    "mistral": {
+        "relevancy": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "correctness": [
+            "Particularly, in the description of the 1st study.",
+            "multiple serious inaccuracies",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "completeness": [
+            "Study 2 omitted completely",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "informativeness": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "integration": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "cohesion": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "coherence": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "readability": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ],
+        "conciseness": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ]
+    }
+}

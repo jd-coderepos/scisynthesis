@@ -1,0 +1,191 @@
+{
+    "gpt": {
+        "relevancy": [
+            "The relevancy of the synthesis is good and is backed up with extensive research but can be a bit overwhelming for my someones' attention span.",
+            "The synthesis showed a concise understanding of the topic and the exploration.",
+            "The knowledge is not consistently or directly relevant, yet it does occasionally connect to the research problem.",
+            "With very few exceptions, the data is consistently pertinent to the research question.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "correctness": [
+            "The information was very accurate and was backed up by solid research!",
+            "The synthesis's information is a realistic and precise depiction of the subject matter.",
+            "Although there might be a few small mistakes, the synthesis largely captures the information from the given abstracts.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "completeness": [
+            "As described in the last answer, the information was very relevant and was well compiled. The information was complete and left no points unaddressed. ",
+            "The synthesis only lacks a few minor features and has nearly all important information.",
+            "With a few small deviations, the synthesis accurately depicts the information from the supplied abstracts.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "informativeness": [
+            "Not a lot of context but enough to make the synthesis's point.",
+            "The summary offers insightful analysis and comprehensive details, making it a very informative read that fully tackles the research issue",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "integration": [
+            "Very well-integrated. The information was addressed well in one single paragraph.",
+            "Though not entirely consistent, the sources are merged. The content is provided in several paragraphs without a clear unifying structure, and the usage of markers and connectors is patchy or improper.",
+            "With a few minor adjustments, the synthesis presents the data from the provided abstracts appropriately.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "cohesion": [
+            "The context was very cohesive and consistent.",
+            "The sentences could do a lot better with integrating the research problem with better sentence structure through out the paragraph in the synthesis. ",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "bo"
+        ],
+        "coherence": [
+            "The narrative could be hardened with more simple and relative ideas to make it easier to understand for the reader. ",
+            "The narrative is a little perplexing because the ideas aren't always rationally connected.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "readability": [
+            "Very clear and concise grammar, structure and cohesion.",
+            "With a few minor stylistic or structural errors, the synthesis adheres to the proper norms and employs language correctly.",
+            "There is no need for stylistic changes because the content is easily readable and has a well-structured use of language.",
+            "The synthesis is incredibly well-written, according to stylistic and structural rules with exact word choice, and is simple to read.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "conciseness": [
+            "As explained in Q.7.ii the conciseness of the synthesis could be more simple, direct and relatable.",
+            "The synthesis may be made more succinct by getting rid of a few unnecessary parts, even though it is generally straightforward and direct. Indicating that more editing might improve clarity and succinctness.",
+            "The synthesis's clarity and impact are increased by its exact conciseness, which delivers information immediately and concisely without the need for extraneous details or repetition. It adheres closely to the 200-word limit, striking the ideal mix between concision and depth.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ]
+    },
+    "mistral": {
+        "relevancy": [
+            "The synthesis shows a thorough grasp of the subject and all of its subtleties and is directly and consistently applicable to the research challenge.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "correctness": [
+            "There are no factual errors or misunderstandings in the synthesis's material, which is a true and faithful portrayal of the information from the supplied abstracts.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "completeness": [
+            "The synthesis thoroughly summarizes every important aspect and point from the supplied abstracts, skipping no important material.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "informativeness": [
+            "Limited new information or helpful insights are offered in the answer to address the research challenge.",
+            "The response provides some insights or helpful information, but it is not very thorough or extensive.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "integration": [
+            "The materials are skillfully combined, making use of the right markers and connectors to weave a coherent story. The data is succinctly arranged in a single paragraph, demonstrating a coherent, unambiguous strategy.",
+            "One or more paragraphs include a cohesive integration of the sources. Smoother transitions and linkages would be beneficial, and improved paragraph organization would improve the text's coherence and cohesiveness.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "cohesion": [
+            "Sentences in the synthesis are coherently combined to create a single, coherent story.\n",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "coherence": [
+            "Most of the time, the ideas make sense together, but the story might use some support to make it more clear.",
+            "Most of the time, the ideas make sense together, but the story might use some support to make it more clear.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "readability": [
+            "There is no need for stylistic changes because the content is easily readable and has a well-structured use of language.",
+            "With a few minor stylistic or structural errors, the synthesis adheres to the proper norms and employs language correctly.",
+            "There is no need for stylistic changes because the content is easily readable and has a well-structured use of language.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ],
+        "conciseness": [
+            "The synthesis is clear and succinct, containing almost no superfluous details or repeated claims. It successfully communicates in the allotted 200 words while staying within the word count.",
+            "The synthesis's clarity is diminished by a few comments that are repeated or unrelated. It goes above the allotted 200 words, which suggests that the content wasn't presented precisely enough.",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no",
+            "no"
+        ]
+    }
+}
