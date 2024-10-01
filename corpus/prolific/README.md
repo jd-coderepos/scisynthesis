@@ -1,4 +1,4 @@
-### Prolific Survey Participants
+### Prolific Survey Participant Demographics
 
 The age, subject(s) of study, education level, and whether individuals are native English speakers is presented in the table below.  One point which stands out is that most participants listed multiple subjects.  In some cases these were similar subjects or superdomains of the same subject, such as Chemistry and Biochemistry or Computer Science and Engineering, while in other cases the groupings suggested an interdisciplinary program of study, as in the case of one sociology participant whose reported subjects are "Art and/or design, Communication and/or Media, Computer Science, Fashion and textiles, Sociology".  Additionally, while all Computer Science participants had completed only an undergraduate degree, for the other domains two out of three participants had completed at least a graduate degree.
 
