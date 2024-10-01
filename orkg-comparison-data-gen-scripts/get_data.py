@@ -79,8 +79,8 @@ for field in tqdm(fields):
                             }
 
 
-with open(f'/home/julia/Documents/synthesis/new_dataset/papers_wo_abstracts_pages{start_page}-{end_page}.json', 'w') as f:
+with open(f'path_to_dataset/papers_wo_abstracts_pages{start_page}-{end_page}.json', 'w') as f:
     json.dump(papers_wo_abstracts, f)
 
-with open(f'/home/julia/Documents/synthesis/new_dataset/data_w_some_missing_abstracts_pages{start_page}-{end_page}.json', 'w') as f:
+with open(f'path_to_dataset/data_w_some_missing_abstracts_pages{start_page}-{end_page}.json', 'w') as f:
     json.dump(data, f)
