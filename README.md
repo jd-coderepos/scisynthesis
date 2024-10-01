@@ -44,4 +44,5 @@
 | **Sociology**     |           |             |              |                 |             |          |           |             |             |      |
 | *GPT-4 (H/A)*     | 4.16/5.00 | 3.83/5.00   | 3.55/4.50    | 4.16/5.00       | 3.55/5.00   | 3.72/5.00| 3.88/5.00 | 3.27/5.00   | 3.77/4.00   | 3.76/4.83 |
 | *Mistral (H/A)*   | 3.50/4.66 | 3.16/3.66   | 2.33/3.66    | 3.05/4.33       | 2.83/4.66   | 3.38/4.66| 3.49/4.66 | 3.55/4.83   | 3.72/4.00   | 3.22/4.35 |
+
 **Table 2: Average human and automatic (LLM) evaluation scores by characteristic.  For each domain/characteristic, the human scores are an average of 18 judgements (6 syntheses (2 samples x 3 synthesis types) x 3 participants) while the auto scores are an average of 6 judgements (6 syntheses (2 samples x 3 synthesis types) x 1 LLM evaluation).**
