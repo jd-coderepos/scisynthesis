@@ -24,6 +24,17 @@
 We develop a methodology to collect and process scientific papers into a format  ready for synthesis using the Open Research Knowledge Graph, a multidisciplinary platform that facilitates the comparison of scientific contributions. Where later, we introduce new synthesis types —-  paper-wise, methodological, and thematic —- that focus on different
 aspects of the extracted insights. Utilizing Mistral-7B and GPT4 , we generate a large-scale dataset of these syntheses.  The established nine quality criteria for evaluating these syntheses, assessed by both an automated LLM evaluator (GPT-4) and a human-crowdsourced survey.
 
+### Directories
+
+* `corpus`: Contains ORKG Synthesis dataset for bot GPT-4 and Mistral-7B for three synthesis objectives (paper-wise, methodological, and thematic). Also Prolific Human Survey Results.
+* `gpt-4 synthesis-evaluator`: Contains `Evaluation System Prompt` and evaluator script.
+* `orkg-comparison-data-gen-scripts`: Synthesis generation scripts.
+* `synthesis-generation-prompts`: Synthesis generation prompts for paper-wise, methodological, and thematic objectives.
+
+### Prolific Survey
+The [Prolific Survey Participant Demographics](corpus/prolific/README.md) avaliabel at Table 1 in the `corpus/prolific` directory.
+
+Also the [average human and automatic (LLM) evaluation](corpus/prolific/README.md) avaliabel at Table 2 in the `corpus/prolific` directory, representing average human and LLM evaluation scores by characteristi comparisons. For each domain/characteristic, the human scores are an average of 18 judgements (6 syntheses (2 samples x 3 synthesis types) x 3 participants) while the auto scores are an average of 6 judgements (6 syntheses (2 samples x 3 synthesis types) x 1 LLM evaluation).
 
 ### LLMs4Synthesis
 The **LLMs4Synthesis** framework on top of this datase is avaliable at  https://github.com/HamedBabaei/LLMs4Synthesis.
