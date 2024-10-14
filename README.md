@@ -32,12 +32,12 @@ aspects of the extracted insights. Utilizing Mistral-7B and GPT4 , we generate a
 * `synthesis-generation-prompts`: Synthesis generation prompts for paper-wise, methodological, and thematic objectives.
 
 ### Prolific Survey
-The [Prolific Survey Participant Demographics](corpus/prolific/README.md) avaliabel at Table 1 in the `corpus/prolific` directory.
+The [Prolific Survey Participant Demographics](corpus/prolific/README.md) available at Table 1 in the `corpus/prolific` directory.
 
-Also the [average human and automatic (LLM) evaluation](corpus/prolific/README.md) avaliabel at Table 2 in the `corpus/prolific` directory, representing average human and LLM evaluation scores by characteristi comparisons. For each domain/characteristic, the human scores are an average of 18 judgements (6 syntheses (2 samples x 3 synthesis types) x 3 participants) while the auto scores are an average of 6 judgements (6 syntheses (2 samples x 3 synthesis types) x 1 LLM evaluation).
+Also the [average human and automatic (LLM) evaluation](corpus/prolific/README.md) available at Table 2 in the `corpus/prolific` directory, representing average human and LLM evaluation scores by characteristic comparisons. For each domain/characteristic, the human scores are an average of 18 judgements (6 syntheses (2 samples x 3 synthesis types) x 3 participants) while the auto scores are an average of 6 judgements (6 syntheses (2 samples x 3 synthesis types) x 1 LLM evaluation).
 
 ### LLMs4Synthesis
-The **LLMs4Synthesis** framework on top of this datase is avaliable at  https://github.com/HamedBabaei/LLMs4Synthesis.
+The **LLMs4Synthesis** framework on top of this dataset is available at  https://github.com/HamedBabaei/LLMs4Synthesis.
 
 
 ### Citation
