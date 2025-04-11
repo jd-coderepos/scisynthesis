@@ -41,15 +41,42 @@ The **LLMs4Synthesis** framework on top of this dataset is available at  https:/
 
 
 ### Citation
-Preprint:
+
+If you find this work useful, please consider citing our research papers listed below.
+
 ```
-@misc{giglou2024llms4synthesisleveraginglargelanguage,
-      title={LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis},
-      author={Hamed Babaei Giglou and Jennifer D'Souza and Sören Auer},
-      year={2024},
-      eprint={2409.18812},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.18812},
+@inproceedings{evans-etal-2024-large,
+    title = "Large Language Models as Evaluators for Scientific Synthesis",
+    author = {Evans, Julia  and
+      D{'}Souza, Jennifer  and
+      Auer, S{\"o}ren},
+    editor = "Luz de Araujo, Pedro Henrique  and
+      Baumann, Andreas  and
+      Gromann, Dagmar  and
+      Krenn, Brigitte  and
+      Roth, Benjamin  and
+      Wiegand, Michael",
+    booktitle = "Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024)",
+    month = sep,
+    year = "2024",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.konvens-main.1/",
+    pages = "1--22"
 }
+
+
+@inbook{babaei-giglou-etal-2025-synthesis,
+author = {Babaei Giglou, Hamed and D'Souza, Jennifer and Auer, S\"{o}ren},
+title = {LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis},
+year = {2025},
+isbn = {9798400710933},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3677389.3702565},
+articleno = {31},
+numpages = {12}
+}
+
 ```
+
