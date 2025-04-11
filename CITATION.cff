@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following work."
+title: "Large Language Models as Evaluators for Scientific Synthesis"
+type: data
+authors:
+  - family-names: "Evans"
+    given-names: "Julia"
+  - family-names: "D'Souza"
+    given-names: "Jennifer"
+  - family-names: "Auer"
+    given-names: "Sören"
+editors:
+  - family-names: "Luz de Araujo"
+    given-names: "Pedro Henrique"
+  - family-names: "Baumann"
+    given-names: "Andreas"
+  - family-names: "Gromann"
+    given-names: "Dagmar"
+  - family-names: "Krenn"
+    given-names: "Brigitte"
+  - family-names: "Roth"
+    given-names: "Benjamin"
+  - family-names: "Wiegand"
+    given-names: "Michael"
+year: "2024"
+month: 9
+booktitle: "Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024)"
+address: "Vienna, Austria"
+publisher: "Association for Computational Linguistics"
+url: "https://aclanthology.org/2024.konvens-main.1/"
+pages: "1--22"
